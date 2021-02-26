@@ -43,7 +43,7 @@ Key | Type | Value
 
 ## SMBIOS
 
-As this is a Coffee Log processor with the Z370 chipset, the Product name is "iMac (Retina 5K, 27-inch, 2019)" (`iMac19,1`).
+As this is a Coffee Lake processor with the Z370 chipset, the Product name is "iMac (Retina 5K, 27-inch, 2019)" (`iMac19,1`).
 
 ## Reference
 
